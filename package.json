@@ -1,0 +1,7 @@
+{
+  "name": "wsi-server",
+  "version": "1.0.0",
+  "main": "wsi-server.js",
+  "scripts": { "start": "node wsi-server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
